@@ -8,3 +8,6 @@ python Main.py
 # Required Library included :
 1. Tkinter
 2. math
+
+#Screen Shot from running on a MacBook Air
+![alt text](url "ScreenShot")
