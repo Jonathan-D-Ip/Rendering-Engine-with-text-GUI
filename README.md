@@ -10,4 +10,4 @@ python Main.py
 2. math
 
 #Screen Shot from running on a MacBook Air
-![alt text](url "ScreenShot")
+![](https://github.com/Jonathan-D-Ip/Rendering-Engine-with-text-GUI/blob/master/Screen%20Shot%202018-04-15%20at%2018.52.33.png?raw=true "ScreenShot")
